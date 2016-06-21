@@ -1,0 +1,18 @@
+website = "www.google.com"
+print website.split('.')
+
+>>['www', 'google', 'com']
+=====================================================
+"{0:b}".format(10)
+'1010'
+##int to binary
+
+int('1010',2)
+##binary to int
+
+bin(225)
+##add "0b" + binary base 2
+
+Ex: bin(10) = 0b1010 || "{0:b}".format(10) = 1010
+
+=====================================================
